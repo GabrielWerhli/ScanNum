@@ -18,7 +18,7 @@ Completo: captura 100% dos números visíveis.
 
 Prático: saída em texto pronta para colar em qualquer lugar.
 
-------------------------------instalação OCR------------------------------------------
+------------------------------instalação OCR, necessario para o software funcionar--------------------------------------
 
 🧩 Instalação do Tesseract OCR no Windows
 Baixe o instalador oficial:
