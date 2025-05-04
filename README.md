@@ -24,7 +24,7 @@ Prático: saída em texto pronta para colar em qualquer lugar.
 Baixe o instalador oficial:
 
 Acesse o link abaixo para baixar a versão mais recente do Tesseract OCR para Windows:
-Tesseract OCR - Windows Installer
+[Tesseract OCR - Windows Installer](https://github.com/tesseract-ocr/tesseract)
 
 Execute o instalador:
 
